@@ -13,3 +13,7 @@ def sum(a,b):
 def multiply(a,b):
     d=a*b
     print("Multiply Function")
+
+def mod(a,b):
+    e=a/b
+    print("Division function")
