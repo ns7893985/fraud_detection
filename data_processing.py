@@ -1,11 +1,15 @@
+from regex import B
+
+
 print("adding all the data processing codes related fraud detection")
 
 a=5
-b=6
+b=3
 
 def sum(a,b):
     c=a+b
-    return c
+    print("Sum function")
 
-
-print("Summ all the values")
+def multiply(a,b):
+    d=a*b
+    print("Multiply Function")
